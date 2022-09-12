@@ -6,7 +6,7 @@ Compile `felzenszwalb_3d_cy.pyx` with Cython by running: `python setup.py build_
 
 
 
-This implementation was developed as part of the [ADNet project](https://github.com/sha168/ADNet/blob/main/README.md):
+This implementation was developed as part of the [ADNet project](https://github.com/sha168/ADNet):
 ```
 @article{hansen2022anomaly,
   title={Anomaly Detection-Inspired Few-Shot Medical Image Segmentation Through Self-Supervision With Supervoxels},
